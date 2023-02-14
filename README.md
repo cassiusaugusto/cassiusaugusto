@@ -1,8 +1,8 @@
 ### Olá 👋
 Eu sou o  Cassius 
 
-- 🔭 Atualmente estou trabalhando em Data analyst
-- 🌱 Estou estudando SQL e  Power BI 
+- 🔭 Atualmente estou trabalhando em Data analyst e Business Analytics
+- 🌱 Expertise em modelagem e digital analytics
 - 📫 Você me encontra em : cassiusaugusto@yahoo.com.br
 - 😄 Pronome :ELE/DELE
 -->
