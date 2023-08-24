@@ -8,6 +8,8 @@ Eu sou o  Cassius
   
 ## Bem vindo! 
 <div>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)
+
   <a href="https://github.com/cassiusaugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassiusaugusto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiusaugusto&layout=compact&langs_count=7&theme=merko"/>
