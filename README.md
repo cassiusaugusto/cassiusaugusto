@@ -8,6 +8,9 @@ Eu sou o  Cassius
   
 ## Bem vindo! 
 <div>
+### Utilitários
+
+[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md)
 
   <a href="https://github.com/cassiusaugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassiusaugusto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
