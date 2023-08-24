@@ -5,7 +5,7 @@ Eu sou o  Cassius
 - 🌱 Expertise em modelagem e digital analytics
 - 📫 Você me encontra em : cassiusaugusto@yahoo.com.br
 - 😄 Pronome :ELE/DELE
--->
+  
 ## Bem vindo! 
 <div>
   <a href="https://github.com/cassiusaugusto">
