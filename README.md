@@ -1,3 +1,10 @@
+
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif)" width="100"/>
+</div>
+
+
 ### Olá 👋
 Eu sou o  Cassius 
 
@@ -9,8 +16,10 @@ Eu sou o  Cassius
 ## Bem vindo! 
 <div>
 ### Conecte-se comigo
-
-[![MEU PERFIL NA DIO](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)]([https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md](https://web.dio.me/users/cassiusaugusto/users?tab=skills))
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
   <a href="https://github.com/cassiusaugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassiusaugusto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
